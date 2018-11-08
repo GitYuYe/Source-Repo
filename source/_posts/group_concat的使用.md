@@ -1,6 +1,6 @@
 ---
 title: group_concat的使用
-date: 2018-09-13 20:10:00
+date: 2017-09-13 20:10:00
 categories: MySQL
 tags: MySQL
 ---
